@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BNV</string>
+    <string name="menu_favorite">Favoritos</string>
+    <string name="menu_music">Mùsicas</string>
+    <string name="menu_place">Lugares</string>
+    <string name="menu_news">Noticias</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
